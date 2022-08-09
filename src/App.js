@@ -1,5 +1,5 @@
-import { Routes, Route } from "react-router";
-import Greeting from "./Greeting";
+import { Routes, Route } from 'react-router';
+import Greeting from './Greeting';
 
 const App = () => (
   <>
